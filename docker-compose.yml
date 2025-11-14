@@ -5,4 +5,4 @@ services:
     build: .
     ports:
       - "8090:90"
-    container_name: telegram-miniapp
+    container_name: telegram-miniapp-https
